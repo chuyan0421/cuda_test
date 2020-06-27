@@ -1,0 +1,3 @@
+build
+add_cuda
+add_block_cuda
